@@ -16,7 +16,7 @@ function App() {
             <div className='row'>
               <div className='col-3 project-div'>
                 <Link to="/Stopwatch">
-                <div className='col-3 project-inner-div'></div>
+                <div className='col-3 project-inner-div'>Stop Watch</div>
                 </Link>
               </div>
               <div className='col-3 project-div'>
